@@ -269,8 +269,8 @@ private fun KirtanScreen(openKirtan: () -> Unit) {
         Spacer(Modifier.height(24.dp))
         Text("LIVE GURBANI KIRTAN", color = Gold, fontSize = 18.sp, fontWeight = FontWeight.ExtraBold, letterSpacing = 1.sp)
         Spacer(Modifier.height(8.dp))
-        Text("Sachkhand Sri Harmandir Sahib
-Sri Amritsar", color = Cream, fontSize = 15.sp, textAlign = TextAlign.Center, lineHeight = 22.sp)
+        Text("Sachkhand Sri Harmandir Sahib Sri Amritsar", color = Cream, fontSize = 15.sp, textAlign = TextAlign.Center, lineHeight = 22.sp)
+
         Spacer(Modifier.height(12.dp))
         Text("The live broadcast opens on the official SGPC website. Playback and availability are controlled by SGPC.", color = Cream.copy(alpha=.65f), fontSize = 12.sp, textAlign = TextAlign.Center)
         Spacer(Modifier.height(22.dp))
